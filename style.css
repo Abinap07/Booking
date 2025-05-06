@@ -1,0 +1,47 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 10px 20px;
+    margin-left: 40px;
+}
+.Reiseplaner{
+    display: flex;
+    flex-direction: row;
+    gap: 10px 20px;
+    margin-left: 40px;
+    margin-bottom: -2%;
+
+}
+.background-color{
+    display: block;
+}
+.Aufenthalte{
+    display: flex;
+    flex-direction: row;
+    gap: 10px 20px;
+    margin-bottom: -3%;
+}
+
+body{
+    background-color: paleturquoise;
+}
+
+.Booking{
+    margin-bottom: 0;
+}
+.Unterkunft{
+    margin-bottom: 0;
+}
+.reisedatum-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reisedatum {
+    margin: 0;
+}
+
+.reisedatum-titel {
+    margin-bottom: 0;
+}
